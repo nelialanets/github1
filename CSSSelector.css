@@ -1,0 +1,87 @@
+*{background-color: floralwhite;}
+h1, h2{color: gray;
+    text-decoration: black;
+    font-variant: normal;
+}
+button{
+    font-size: 20px;
+    background-color:#A57F60};
+}
+#log{
+    background-color:#E3A587;
+    color: white;
+}
+span{
+color: #219ebc;
+text-decoration: underline;
+}
+.tag:hover{
+    color: blueviolet;
+    font-size: 20;
+    background-color: d8e2dc;
+}
+
+.post a {
+    color: 6d6875;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration: underline;
+}
+
+footer a { 
+    color: blueviolet;
+}
+footer{
+    color: #2a9d8f;
+}
+.ta:hover{color:#90e0ef;}
+li a {
+    color:#e5989b;
+    background-color:#6d6875 ;
+}
+Vote1{
+    color:#6d6875;
+}
+h2+button{
+    background-color: darkkhaki;
+    font-size: 15px;
+}
+footer> a {
+
+    color: darkorange;
+}
+
+input[type=text]{
+    color:#honeydew;}
+
+section.post{color:#ffb4a2;
+}
+#submitt{
+    color:floralwhite
+    background-color:#dimgray;
+    text-decorations:hover;
+}
+.post button:hover{
+    color: grey;
+    background-color: honeydew;}
+    
+    .post a:hover{
+        text-decoration: none;
+        color: cornflowerblue;
+    }
+    a:hover{ text-decoration: underline;
+
+    }
+    .post button:active{
+        background-color: darkgreen;
+    }
+
+    .post :nth-last-of-type(3rd) {
+        background-color: darkseagreen;
+    }
+
+    .post:hover{
+        background-color: darkturquoise;
+    }
+p::first-letter{
+    font-size: 20px;
+color:#219ebc;}    
